@@ -1,9 +1,9 @@
-{
-  "songs": [
-    {
-      "name": "br",
-      "artist": "Navitchum",
-      "file": "songs/navitchum.mp3"
-    }
-  ]
-}
+[
+  {
+    "name": "br",
+    "artist": "Navitchum",
+    "songs": [ID_DA_MUSICA],
+    "source": "host",
+    "url": "URL_DO_MP3"
+  }
+]
