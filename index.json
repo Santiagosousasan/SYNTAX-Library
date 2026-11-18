@@ -4,6 +4,6 @@
     "artist": "Navitchum",
     "songs": [ID_DA_MUSICA],
     "source": "host",
-    "url": "URL_DO_MP3"
+    "url": "https://cdn.jsdelivr.net/gh/Santiagosousasan/SYNTAX-Library@main/br_navitchum.mp3"
   }
 ]
